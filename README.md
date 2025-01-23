@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MallyM03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning social science with data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data analytics and finding quantitative solutions to qulitative hypotheses!
+- 🌱 I’m currently learning Hadoop and SQL
+- 💞️ I’m looking to work on projects reted to Mental Health, Public Trust and COVID-19 Effects.
+- 📫 You can reach out on [LinkedIn](https://www.linkedin.com/in/malavika-menon-gb/)
 
 <!---
 MallyM03/MallyM03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
